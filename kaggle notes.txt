@@ -1,0 +1,7 @@
+Logistic regression
+K-NN
+SVM
+
+kaggle competitions submit -c msbd5001-spring-2022 -f submission.csv -m "Message"
+
+Implement grid search
